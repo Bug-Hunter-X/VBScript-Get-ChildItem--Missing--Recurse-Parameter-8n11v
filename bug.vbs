@@ -1,0 +1,1 @@
+Function Get-ChildItem in VBScript does not support the -Recurse parameter, which is available in PowerShell.  Attempting to use it will result in a runtime error.  This is a common mistake for those migrating from PowerShell.
